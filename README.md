@@ -2,5 +2,5 @@
 
 - Busca em Largura
 - Busca em Profundidade
-- Djisktra
+- Dijsktra
 - Arvore Geradora Mínima
